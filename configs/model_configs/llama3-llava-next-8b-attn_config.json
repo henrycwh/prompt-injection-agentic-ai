@@ -1,0 +1,12 @@
+{
+    "model_info": {
+        "provider": "attn-hf-vlm",
+        "name": "llama3-llava-next-8b-attn",
+        "model_id": "llava-hf/llama3-llava-next-8b-hf"
+    },
+    "params": {
+        "temperature": 0.1,
+        "max_output_tokens": 32,
+        "important_heads": "all"
+    }
+}
