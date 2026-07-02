@@ -92,7 +92,7 @@ Then modify:
 ./scripts/run_dataset.sh
 ```
 Injected Image Dataset: https://drive.google.com/drive/folders/17MDXgdW_jdFxIlNX29nzt0VLK7PzV7wb?usp=drive_link
-Dataset: https://huggingface.co/datasets/deepset/prompt-injections?row=19
+Attention Tracker Dataset: https://huggingface.co/datasets/deepset/prompt-injections?row=19
 
 ### Test Individual Queries
 
